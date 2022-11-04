@@ -29,7 +29,7 @@ Data deletion
 
 1. Deleted Automatically
 
-The following data is deleted automatically when you remove FOXY PRIME from you server or stop using the bot.
+The following data is deleted automatically when you remove Total Fun from you server or stop using the bot.
 
 - Discord Server IDs
 - Discord Channel IDs
