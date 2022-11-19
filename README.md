@@ -1,6 +1,6 @@
 Definitions
 
- Total Fun : Discord Security & Utility Bot
+ Total Fun 2 : Discord Security & Utility Bot
 
 What data do we collect?
 
@@ -17,19 +17,19 @@ Why do we store this information?
 
 1. Discord
 
-Discord data is stored to make sure Total Fun can operate and allow servers to set their own settings.
+Discord data is stored to make sure Total Fun 2 can operate and allow servers to set their own settings.
 
 2. Opt-in
 
 • Any per-server settings you might have changed
 
-These are only saved if you change the default settings of Total Fun in your server and are needed to make sure the settings you set persist over your period of time using Total Fun within your server.
+These are only saved if you change the default settings of Total Fun 2 in your server and are needed to make sure the settings you set persist over your period of time using Total Fun 2 within your server.
 
 Data deletion
 
 1. Deleted Automatically
 
-The following data is deleted automatically when you remove Total Fun from you server or stop using the bot.
+The following data is deleted automatically when you remove Total Fun 2 from you server or stop using the bot.
 
 - Discord Server IDs
 - Discord Channel IDs
